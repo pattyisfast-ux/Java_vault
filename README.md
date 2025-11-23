@@ -4,7 +4,6 @@ This repo documents my  journey through Java — starting with `CSVCleaner.java`
 
 ## Files
 - `CSVCleaner.java`: Java code that cleans CSV lines by trimming extra spaces
-- `input.csv`: Sample input data
 - `cleaned.csv`: Output proof
 - Screenshot: BlueJ execution receipt 
 
